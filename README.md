@@ -47,24 +47,19 @@ python bot.py
 ## Скриншоты
 
 ### Главное меню
-
-![Главное меню](screenshots/01-start.jpg)
+<img src="screenshots/01-start.jpg" width="280" />
 
 ### FAQ и ответ
-
-![FAQ и ответ](screenshots/02-faq-answer.jpg)
+<img src="screenshots/02-faq-answer.jpg" width="280" />
 
 ### Форма заявки
-
-![Форма заявки](screenshots/03-lead-form.jpg)
+<img src="screenshots/03-lead-form.jpg" width="280" />
 
 ### Подтверждение для пользователя
-
-![Подтверждение](screenshots/04-confirmation.jpg)
+<img src="screenshots/04-confirmation.jpg" width="280" />
 
 ### Уведомление менеджеру
-
-![Уведомление менеджеру](screenshots/05-manager-handoff.jpg)
+<img src="screenshots/05-manager-handoff.jpg" width="280" />
 
 ## Примечание
 
